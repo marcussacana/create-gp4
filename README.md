@@ -1,4 +1,4 @@
-# Tool Documentation (create-gp4)
+# Tool Documentation (create-gp4) 
 
 ## Summary
 `create-gp4` takes a content ID and list of files and produces an output GP4 project file. This tool is based on John Tornblom's `create-gp4` prototype python script.
